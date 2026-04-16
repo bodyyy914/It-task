@@ -31,9 +31,16 @@ header ul{
     justify-content: space-evenly;
     padding: 0px;
     margin: 0px;
+    scale: 1 1;
+    text-shadow: 0px 0px 15px 0px black;
 }
 
 
+header ul:hover{
+    scale: 1.2 1.2;
+    text-shadow: 0px 0px 15px 3px;
+    transition: 0.3s;
+}
 
 
 
