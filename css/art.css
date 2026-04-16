@@ -1,0 +1,279 @@
+ body{
+    background-image: url(../united-co-shared-office-space-melbourne-scaled.jpg);
+    background-size:cov;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 150vh;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      /* header */
+header{
+    background-color: #ccc;
+    width: 100%;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    justify-content: space-evenly;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+                                                              /* a */
+a{
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+                            /*  add course page مش فاكر  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     /* الزراير  */
+.buttonn{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.reset{
+    background-color: rgb(105, 18, 18);
+    color: white;
+    border: solid ;
+    border-color: rgb(105, 18, 18) ;
+}
+
+.sumbit{
+    background-color: rgb(70, 151, 70);
+    color: white;
+    border: solid rgb(70, 151, 70);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           /* table */
+table{
+    width: 700px;
+    margin: 10px auto;
+    border: solid rgb(73, 68, 68) 5px;
+}
+
+
+thead th{
+    background-color: rgb(48, 46, 46);
+    padding: 15px;
+    color: white;
+}
+
+tbody td {
+    background-color: #eee;
+    text-align: center;
+    font-family: sans-serif ;
+}
+
+
+img{
+    width: 50px;
+    height: 50px;
+    margin: 2px 10px;
+}
+
+button{
+    background-color: skyblue;
+    color: white;
+    border: solid skyblue;
+    cursor: pointer;
+}
+caption{
+    background-color: #eee;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+
+ 
+                                                                   /* footer  */
+footer{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    background-color: #ccc;
+    width: 100%;
+    left: 0%;
+}
+
+
+
+
+
+
+
+                                                  /* label */
+
+
+label{
+    font-family: sans-serif;
+    font-weight: bold;
+}                                                  
+
+
+
+
+
+
+                             /* p */
+p{
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+
+
+
+                    /* home */
+.homee{
+    background-color: #ccc;
+    left: auto;
+    right: auto;
+    position: relative;
+    top: 30%;
+    /* margin-left: 10vw ; */
+    margin: 0 auto;
+    text-align: center;
+    height: 20vh;
+
+}
+
+
+
+
+
+
+                                                        /* add course */
+.add{
+    background-color: #ccc;
+    text-align: center;
+    margin: 30px auto;
+    padding: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+                                               /* contact */
+.contact{
+
+}                                               
+
+
+h1{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+textarea{
+    width: clamp(200px,80vw,300px);
+}
+
+
+
+
+
+
+
+
+
+
+
+.view{
+    background-color: skyblue;
+    color: black;
+    border: solid skyblue;
+}
+
+
+
+
+
+
+
+
+
+
